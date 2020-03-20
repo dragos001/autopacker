@@ -1,0 +1,37 @@
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\bin\Release\WorldOfTimes2.exe.config
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\bin\Release\WorldOfTimes2.exe
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\bin\Release\WorldOfTimes2.pdb
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\bin\Release\MetroFramework.dll
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csprojResolveAssemblyReference.cache
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Release\Sanchez.Patcher.pForm.resources
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Release\WorldOfTimes2.Properties.Resources.resources
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csproj.GenerateResource.Cache
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Release\WorldOfTimes2.exe
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Release\WorldOfTimes2.pdb
+C:\Users\SFX\Desktop\patcher\Source\Sanchez.Patcher\bin\Release\WorldOfTimes2.exe.config
+C:\Users\SFX\Desktop\patcher\Source\Sanchez.Patcher\bin\Release\WorldOfTimes2.exe
+C:\Users\SFX\Desktop\patcher\Source\Sanchez.Patcher\bin\Release\WorldOfTimes2.pdb
+C:\Users\SFX\Desktop\patcher\Source\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csprojResolveAssemblyReference.cache
+C:\Users\SFX\Desktop\patcher\Source\Sanchez.Patcher\obj\Release\Sanchez.Patcher.pForm.resources
+C:\Users\SFX\Desktop\patcher\Source\Sanchez.Patcher\obj\Release\WorldOfTimes2.Properties.Resources.resources
+C:\Users\SFX\Desktop\patcher\Source\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csproj.GenerateResource.Cache
+C:\Users\SFX\Desktop\patcher\Source\Sanchez.Patcher\obj\Release\WorldOfTimes2.exe
+C:\Users\SFX\Desktop\patcher\Source\Sanchez.Patcher\obj\Release\WorldOfTimes2.pdb
+C:\Users\SFX\Desktop\patcher\zernat\Sanchez.Patcher\bin\Release\WorldOfTimes2.exe.config
+C:\Users\SFX\Desktop\patcher\zernat\Sanchez.Patcher\obj\Release\WorldOfTimes2.exe
+C:\Users\SFX\Desktop\patcher\zernat\Sanchez.Patcher\obj\Release\WorldOfTimes2.pdb
+C:\Users\SFX\Desktop\patcher\zernat\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csprojResolveAssemblyReference.cache
+C:\Users\SFX\Desktop\patcher\zernat\Sanchez.Patcher\obj\Release\Sanchez.Patcher.pForm.resources
+C:\Users\SFX\Desktop\patcher\zernat\Sanchez.Patcher\obj\Release\WorldOfTimes2.Properties.Resources.resources
+C:\Users\SFX\Desktop\patcher\zernat\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csproj.GenerateResource.Cache
+C:\Users\SFX\Desktop\patcher\zernat\Sanchez.Patcher\bin\Release\WorldOfTimes2.exe
+C:\Users\SFX\Desktop\patcher\zernat\Sanchez.Patcher\bin\Release\WorldOfTimes2.pdb
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csprojResolveAssemblyReference.cache
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\obj\Release\Sanchez.Patcher.pForm.resources
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csproj.GenerateResource.Cache
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\bin\Release\Autopatcher.exe.config
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\bin\Release\Autopatcher.exe
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\bin\Release\Autopatcher.pdb
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\obj\Release\Autopatcher.Properties.Resources.resources
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\obj\Release\Autopatcher.exe
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\obj\Release\Autopatcher.pdb

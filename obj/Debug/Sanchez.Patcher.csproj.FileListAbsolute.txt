@@ -1,0 +1,20 @@
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.csprojResolveAssemblyReference.cache
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.pForm.resources
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.csproj.GenerateResource.Cache
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\bin\Debug\WorldOfTimes2.exe.config
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\bin\Debug\WorldOfTimes2.exe
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\bin\Debug\WorldOfTimes2.pdb
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Debug\WorldOfTimes2.Properties.Resources.resources
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Debug\WorldOfTimes2.exe
+C:\Users\andrei\Desktop\New folder (3)\Source\Sanchez.Patcher\obj\Debug\WorldOfTimes2.pdb
+C:\Users\SFX\Desktop\patcher\clasic\Sanchez.Patcher\Sursa-Patcher\bin\Debug\Autopatcher.exe.config
+C:\Users\Dragos\Desktop\Sursa-Patcher\bin\Debug\Autopatcher.exe.config
+C:\Users\Dragos\Desktop\Sursa-Patcher\bin\Debug\Autopatcher.exe
+C:\Users\Dragos\Desktop\Sursa-Patcher\bin\Debug\Autopatcher.pdb
+C:\Users\Dragos\Desktop\Sursa-Patcher\obj\Debug\Sanchez.Patcher.csprojAssemblyReference.cache
+C:\Users\Dragos\Desktop\Sursa-Patcher\obj\Debug\Sanchez.Patcher.pForm.resources
+C:\Users\Dragos\Desktop\Sursa-Patcher\obj\Debug\Autopatcher.Properties.Resources.resources
+C:\Users\Dragos\Desktop\Sursa-Patcher\obj\Debug\Sanchez.Patcher.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\Sursa-Patcher\obj\Debug\Sanchez.Patcher.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Sursa-Patcher\obj\Debug\Autopatcher.exe
+C:\Users\Dragos\Desktop\Sursa-Patcher\obj\Debug\Autopatcher.pdb
